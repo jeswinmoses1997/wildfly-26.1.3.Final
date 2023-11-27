@@ -1,0 +1,16 @@
+2023-11-02 09:53:35,913 INFO  [org.jboss.as.server] (Thread-1) WFLYSRV0272: Suspending server
+2023-11-02 09:53:35,939 INFO  [org.jboss.as.ejb3] (Thread-1) WFLYEJB0493: Jakarta Enterprise Beans subsystem suspension complete
+2023-11-02 09:53:35,946 INFO  [org.jboss.as.server] (Thread-1) WFLYSRV0220: Server shutdown has been requested via an OS signal
+2023-11-02 09:53:35,959 INFO  [org.jboss.as.mail.extension] (MSC service thread 1-4) WFLYMAIL0002: Unbound mail session [java:jboss/mail/Default]
+2023-11-02 09:53:35,961 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 105) WFLYUT0022: Unregistered web context: '/myfirstwar' from server 'default-server'
+2023-11-02 09:53:35,971 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-3) WFLYUT0019: Host default-host stopping
+2023-11-02 09:53:35,977 INFO  [org.jboss.as.connector.subsystems.datasources] (MSC service thread 1-7) WFLYJCA0010: Unbound data source [java:jboss/datasources/ExampleDS]
+2023-11-02 09:53:35,979 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-8) WFLYJCA0019: Stopped Driver service with driver-name = h2
+2023-11-02 09:53:35,988 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-2) WFLYUT0008: Undertow HTTPS listener https suspending
+2023-11-02 09:53:35,989 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-2) WFLYUT0007: Undertow HTTPS listener https stopped, was bound to 127.0.0.1:8443
+2023-11-02 09:53:35,991 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-8) WFLYSRV0028: Stopped deployment myfirstwar.war (runtime-name: myfirstwar.war) in 39ms
+2023-11-02 09:53:35,995 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-3) WFLYUT0008: Undertow HTTP listener default suspending
+2023-11-02 09:53:35,995 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-3) WFLYUT0007: Undertow HTTP listener default stopped, was bound to 127.0.0.1:8080
+2023-11-02 09:53:35,997 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-8) WFLYUT0004: Undertow 2.2.19.Final stopping
+2023-11-02 09:53:36,004 INFO  [org.jboss.as.clustering.infinispan] (ServerService Thread Pool -- 109) WFLYCLINF0003: Stopped http-remoting-connector cache from ejb container
+2023-11-02 09:53:36,009 INFO  [org.jboss.as] (MSC service thread 1-4) WFLYSRV0050: WildFly Full 26.1.3.Final (WildFly Core 18.1.2.Final) stopped in 58ms

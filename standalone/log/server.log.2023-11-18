@@ -1,0 +1,126 @@
+2023-11-18 10:21:12,612 INFO  [org.jboss.as.repository] (management-handler-thread - 2) WFLYDR0001: Content added at location /Users/jeswin/Downloads/wildfly-26.1.3.Final/standalone/data/content/61/235586f22ab633f9189db1b406da2e16c01205/content
+2023-11-18 10:21:12,623 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 33) WFLYUT0022: Unregistered web context: '/myfirstwar' from server 'default-server'
+2023-11-18 10:21:12,665 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-5) WFLYSRV0028: Stopped deployment myfirstwar.war (runtime-name: myfirstwar.war) in 46ms
+2023-11-18 10:21:12,668 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-7) WFLYSRV0027: Starting deployment of "myfirstwar.war" (runtime-name: "myfirstwar.war")
+2023-11-18 10:21:12,736 INFO  [org.jboss.weld.deployer] (MSC service thread 1-4) WFLYWELD0003: Processing weld deployment myfirstwar.war
+2023-11-18 10:21:12,927 INFO  [io.jaegertracing.internal.JaegerTracer] (MSC service thread 1-4) No shutdown hook registered: Please call close() manually on application shutdown.
+2023-11-18 10:21:12,928 INFO  [org.wildfly.microprofile.opentracing.smallrye] (MSC service thread 1-4) WFLYTRAC0001: Tracer initialized: JaegerTracer(version=Java-1.6.0, serviceName=myfirstwar.war, reporter=RemoteReporter(sender=org.wildfly.extension.microprofile.opentracing.spi.sender.WildFlySender@7f265889, closeEnqueueTimeout=1000), sampler=ConstSampler(decision=true, tags={sampler.type=const, sampler.param=true}), tags={hostname=JeSs-MacBook-Air.local, jaeger.version=Java-1.6.0, ip=127.0.0.1}, zipkinSharedRpcSpan=false, expandExceptionLogs=false, useTraceId128Bit=false)
+2023-11-18 10:21:13,020 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 33) WFLYUT0021: Registered web context: '/myfirstwar' for server 'default-server'
+2023-11-18 10:21:13,036 INFO  [org.jboss.as.server] (management-handler-thread - 2) WFLYSRV0016: Replaced deployment "myfirstwar.war" with deployment "myfirstwar.war"
+2023-11-18 10:21:13,036 INFO  [org.jboss.as.repository] (management-handler-thread - 2) WFLYDR0002: Content removed from location /Users/jeswin/Downloads/wildfly-26.1.3.Final/standalone/data/content/3a/d7aa49c0f84dbf1bf4ea40ff1a6d718da65c32/content
+2023-11-18 10:22:51,021 INFO  [org.jboss.as.repository] (management-handler-thread - 2) WFLYDR0001: Content added at location /Users/jeswin/Downloads/wildfly-26.1.3.Final/standalone/data/content/ec/9afe2606e8278dd03f0aa9af457df7737f8440/content
+2023-11-18 10:22:51,026 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 33) WFLYUT0022: Unregistered web context: '/myfirstwar' from server 'default-server'
+2023-11-18 10:22:51,053 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-3) WFLYSRV0028: Stopped deployment myfirstwar.war (runtime-name: myfirstwar.war) in 28ms
+2023-11-18 10:22:51,053 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-3) WFLYSRV0027: Starting deployment of "myfirstwar.war" (runtime-name: "myfirstwar.war")
+2023-11-18 10:22:51,108 INFO  [org.jboss.weld.deployer] (MSC service thread 1-1) WFLYWELD0003: Processing weld deployment myfirstwar.war
+2023-11-18 10:22:51,138 INFO  [io.jaegertracing.internal.JaegerTracer] (MSC service thread 1-1) No shutdown hook registered: Please call close() manually on application shutdown.
+2023-11-18 10:22:51,139 INFO  [org.wildfly.microprofile.opentracing.smallrye] (MSC service thread 1-1) WFLYTRAC0001: Tracer initialized: JaegerTracer(version=Java-1.6.0, serviceName=myfirstwar.war, reporter=RemoteReporter(sender=org.wildfly.extension.microprofile.opentracing.spi.sender.WildFlySender@336c90a6, closeEnqueueTimeout=1000), sampler=ConstSampler(decision=true, tags={sampler.type=const, sampler.param=true}), tags={hostname=JeSs-MacBook-Air.local, jaeger.version=Java-1.6.0, ip=127.0.0.1}, zipkinSharedRpcSpan=false, expandExceptionLogs=false, useTraceId128Bit=false)
+2023-11-18 10:22:51,201 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 87) WFLYUT0021: Registered web context: '/myfirstwar' for server 'default-server'
+2023-11-18 10:22:51,212 INFO  [org.jboss.as.server] (management-handler-thread - 2) WFLYSRV0016: Replaced deployment "myfirstwar.war" with deployment "myfirstwar.war"
+2023-11-18 10:22:51,212 INFO  [org.jboss.as.repository] (management-handler-thread - 2) WFLYDR0002: Content removed from location /Users/jeswin/Downloads/wildfly-26.1.3.Final/standalone/data/content/61/235586f22ab633f9189db1b406da2e16c01205/content
+2023-11-18 10:25:53,442 INFO  [org.jboss.as.repository] (management-handler-thread - 2) WFLYDR0001: Content added at location /Users/jeswin/Downloads/wildfly-26.1.3.Final/standalone/data/content/d0/fc3c73d69d8f1df2272cf2538c6ddfb78e7d01/content
+2023-11-18 10:25:53,456 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 87) WFLYUT0022: Unregistered web context: '/myfirstwar' from server 'default-server'
+2023-11-18 10:25:53,491 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-3) WFLYSRV0028: Stopped deployment myfirstwar.war (runtime-name: myfirstwar.war) in 40ms
+2023-11-18 10:25:53,493 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-8) WFLYSRV0027: Starting deployment of "myfirstwar.war" (runtime-name: "myfirstwar.war")
+2023-11-18 10:25:53,559 INFO  [org.jboss.weld.deployer] (MSC service thread 1-1) WFLYWELD0003: Processing weld deployment myfirstwar.war
+2023-11-18 10:25:53,665 INFO  [io.jaegertracing.internal.JaegerTracer] (MSC service thread 1-1) No shutdown hook registered: Please call close() manually on application shutdown.
+2023-11-18 10:25:53,665 INFO  [org.wildfly.microprofile.opentracing.smallrye] (MSC service thread 1-1) WFLYTRAC0001: Tracer initialized: JaegerTracer(version=Java-1.6.0, serviceName=myfirstwar.war, reporter=RemoteReporter(sender=org.wildfly.extension.microprofile.opentracing.spi.sender.WildFlySender@713eeda4, closeEnqueueTimeout=1000), sampler=ConstSampler(decision=true, tags={sampler.type=const, sampler.param=true}), tags={hostname=JeSs-MacBook-Air.local, jaeger.version=Java-1.6.0, ip=127.0.0.1}, zipkinSharedRpcSpan=false, expandExceptionLogs=false, useTraceId128Bit=false)
+2023-11-18 10:25:53,746 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 90) WFLYUT0021: Registered web context: '/myfirstwar' for server 'default-server'
+2023-11-18 10:25:53,773 INFO  [org.jboss.as.server] (management-handler-thread - 2) WFLYSRV0016: Replaced deployment "myfirstwar.war" with deployment "myfirstwar.war"
+2023-11-18 10:25:53,774 INFO  [org.jboss.as.repository] (management-handler-thread - 2) WFLYDR0002: Content removed from location /Users/jeswin/Downloads/wildfly-26.1.3.Final/standalone/data/content/ec/9afe2606e8278dd03f0aa9af457df7737f8440/content
+2023-11-18 10:29:00,285 INFO  [org.jboss.as.repository] (management-handler-thread - 2) WFLYDR0001: Content added at location /Users/jeswin/Downloads/wildfly-26.1.3.Final/standalone/data/content/d1/9f8d99a7c48f629cdf1f30f429a2bfe51b6167/content
+2023-11-18 10:29:00,294 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 90) WFLYUT0022: Unregistered web context: '/myfirstwar' from server 'default-server'
+2023-11-18 10:29:00,333 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-8) WFLYSRV0028: Stopped deployment myfirstwar.war (runtime-name: myfirstwar.war) in 42ms
+2023-11-18 10:29:00,336 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-6) WFLYSRV0027: Starting deployment of "myfirstwar.war" (runtime-name: "myfirstwar.war")
+2023-11-18 10:29:00,427 INFO  [org.jboss.weld.deployer] (MSC service thread 1-2) WFLYWELD0003: Processing weld deployment myfirstwar.war
+2023-11-18 10:29:00,619 INFO  [io.jaegertracing.internal.JaegerTracer] (MSC service thread 1-2) No shutdown hook registered: Please call close() manually on application shutdown.
+2023-11-18 10:29:00,620 INFO  [org.wildfly.microprofile.opentracing.smallrye] (MSC service thread 1-2) WFLYTRAC0001: Tracer initialized: JaegerTracer(version=Java-1.6.0, serviceName=myfirstwar.war, reporter=RemoteReporter(sender=org.wildfly.extension.microprofile.opentracing.spi.sender.WildFlySender@74127d0d, closeEnqueueTimeout=1000), sampler=ConstSampler(decision=true, tags={sampler.type=const, sampler.param=true}), tags={hostname=JeSs-MacBook-Air.local, jaeger.version=Java-1.6.0, ip=127.0.0.1}, zipkinSharedRpcSpan=false, expandExceptionLogs=false, useTraceId128Bit=false)
+2023-11-18 10:29:00,684 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 90) WFLYUT0021: Registered web context: '/myfirstwar' for server 'default-server'
+2023-11-18 10:29:00,693 INFO  [org.jboss.as.server] (management-handler-thread - 2) WFLYSRV0016: Replaced deployment "myfirstwar.war" with deployment "myfirstwar.war"
+2023-11-18 10:29:00,694 INFO  [org.jboss.as.repository] (management-handler-thread - 2) WFLYDR0002: Content removed from location /Users/jeswin/Downloads/wildfly-26.1.3.Final/standalone/data/content/d0/fc3c73d69d8f1df2272cf2538c6ddfb78e7d01/content
+2023-11-18 10:29:40,895 ERROR [io.undertow.request] (default task-1) UT005023: Exception handling request to /myfirstwar/resources/public/family/all/put/mobile/version: org.jboss.resteasy.spi.UnhandledException: java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because "brand" is null
+	at org.jboss.resteasy.resteasy-core@4.7.7.Final//org.jboss.resteasy.core.ExceptionHandler.handleApplicationException(ExceptionHandler.java:105)
+	at org.jboss.resteasy.resteasy-core@4.7.7.Final//org.jboss.resteasy.core.ExceptionHandler.handleException(ExceptionHandler.java:359)
+	at org.jboss.resteasy.resteasy-core@4.7.7.Final//org.jboss.resteasy.core.SynchronousDispatcher.writeException(SynchronousDispatcher.java:218)
+	at org.jboss.resteasy.resteasy-core@4.7.7.Final//org.jboss.resteasy.core.SynchronousDispatcher.invoke(SynchronousDispatcher.java:519)
+	at org.jboss.resteasy.resteasy-core@4.7.7.Final//org.jboss.resteasy.core.SynchronousDispatcher.lambda$invoke$4(SynchronousDispatcher.java:261)
+	at org.jboss.resteasy.resteasy-core@4.7.7.Final//org.jboss.resteasy.core.SynchronousDispatcher.lambda$preprocess$0(SynchronousDispatcher.java:161)
+	at org.jboss.resteasy.resteasy-core@4.7.7.Final//org.jboss.resteasy.core.interception.jaxrs.PreMatchContainerRequestContext.filter(PreMatchContainerRequestContext.java:364)
+	at org.jboss.resteasy.resteasy-core@4.7.7.Final//org.jboss.resteasy.core.SynchronousDispatcher.preprocess(SynchronousDispatcher.java:164)
+	at org.jboss.resteasy.resteasy-core@4.7.7.Final//org.jboss.resteasy.core.SynchronousDispatcher.invoke(SynchronousDispatcher.java:247)
+	at org.jboss.resteasy.resteasy-core@4.7.7.Final//org.jboss.resteasy.plugins.server.servlet.ServletContainerDispatcher.service(ServletContainerDispatcher.java:249)
+	at org.jboss.resteasy.resteasy-core@4.7.7.Final//org.jboss.resteasy.plugins.server.servlet.HttpServletDispatcher.service(HttpServletDispatcher.java:60)
+	at org.jboss.resteasy.resteasy-core@4.7.7.Final//org.jboss.resteasy.plugins.server.servlet.HttpServletDispatcher.service(HttpServletDispatcher.java:55)
+	at javax.servlet.api@2.0.0.Final//javax.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at io.undertow.servlet@2.2.19.Final//io.undertow.servlet.handlers.ServletHandler.handleRequest(ServletHandler.java:74)
+	at io.undertow.servlet@2.2.19.Final//io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:129)
+	at io.opentracing.contrib.opentracing-jaxrs2//io.opentracing.contrib.jaxrs2.server.SpanFinishingFilter.doFilter(SpanFinishingFilter.java:52)
+	at io.undertow.servlet@2.2.19.Final//io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:61)
+	at io.undertow.servlet@2.2.19.Final//io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:131)
+	at io.undertow.servlet@2.2.19.Final//io.undertow.servlet.handlers.FilterHandler.handleRequest(FilterHandler.java:84)
+	at io.undertow.servlet@2.2.19.Final//io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:62)
+	at io.undertow.servlet@2.2.19.Final//io.undertow.servlet.handlers.ServletChain$1.handleRequest(ServletChain.java:68)
+	at io.undertow.servlet@2.2.19.Final//io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36)
+	at org.wildfly.security.elytron-web.undertow-server@1.10.1.Final//org.wildfly.elytron.web.undertow.server.ElytronRunAsHandler.lambda$handleRequest$1(ElytronRunAsHandler.java:68)
+	at org.wildfly.security.elytron-base@1.19.1.Final//org.wildfly.security.auth.server.FlexibleIdentityAssociation.runAsFunctionEx(FlexibleIdentityAssociation.java:103)
+	at org.wildfly.security.elytron-base@1.19.1.Final//org.wildfly.security.auth.server.Scoped.runAsFunctionEx(Scoped.java:161)
+	at org.wildfly.security.elytron-base@1.19.1.Final//org.wildfly.security.auth.server.Scoped.runAs(Scoped.java:73)
+	at org.wildfly.security.elytron-web.undertow-server@1.10.1.Final//org.wildfly.elytron.web.undertow.server.ElytronRunAsHandler.handleRequest(ElytronRunAsHandler.java:67)
+	at io.undertow.servlet@2.2.19.Final//io.undertow.servlet.handlers.RedirectDirHandler.handleRequest(RedirectDirHandler.java:68)
+	at io.undertow.servlet@2.2.19.Final//io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:117)
+	at io.undertow.servlet@2.2.19.Final//io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:57)
+	at io.undertow.core@2.2.19.Final//io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.core@2.2.19.Final//io.undertow.security.handlers.AuthenticationConstraintHandler.handleRequest(AuthenticationConstraintHandler.java:53)
+	at io.undertow.core@2.2.19.Final//io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:46)
+	at io.undertow.servlet@2.2.19.Final//io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:64)
+	at io.undertow.servlet@2.2.19.Final//io.undertow.servlet.handlers.security.ServletSecurityConstraintHandler.handleRequest(ServletSecurityConstraintHandler.java:59)
+	at io.undertow.core@2.2.19.Final//io.undertow.security.handlers.AbstractSecurityContextAssociationHandler.handleRequest(AbstractSecurityContextAssociationHandler.java:43)
+	at org.wildfly.security.elytron-web.undertow-server-servlet@1.10.1.Final//org.wildfly.elytron.web.undertow.server.servlet.CleanUpHandler.handleRequest(CleanUpHandler.java:38)
+	at io.undertow.core@2.2.19.Final//io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at org.wildfly.extension.undertow@26.1.3.Final//org.wildfly.extension.undertow.security.jacc.JACCContextIdHandler.handleRequest(JACCContextIdHandler.java:61)
+	at io.undertow.core@2.2.19.Final//io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at org.wildfly.extension.undertow@26.1.3.Final//org.wildfly.extension.undertow.deployment.GlobalRequestControllerHandler.handleRequest(GlobalRequestControllerHandler.java:68)
+	at io.undertow.servlet@2.2.19.Final//io.undertow.servlet.handlers.SendErrorPageHandler.handleRequest(SendErrorPageHandler.java:52)
+	at io.undertow.core@2.2.19.Final//io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.servlet@2.2.19.Final//io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:275)
+	at io.undertow.servlet@2.2.19.Final//io.undertow.servlet.handlers.ServletInitialHandler.access$100(ServletInitialHandler.java:79)
+	at io.undertow.servlet@2.2.19.Final//io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:134)
+	at io.undertow.servlet@2.2.19.Final//io.undertow.servlet.handlers.ServletInitialHandler$2.call(ServletInitialHandler.java:131)
+	at io.undertow.servlet@2.2.19.Final//io.undertow.servlet.core.ServletRequestContextThreadSetupAction$1.call(ServletRequestContextThreadSetupAction.java:48)
+	at io.undertow.servlet@2.2.19.Final//io.undertow.servlet.core.ContextClassLoaderSetupAction$1.call(ContextClassLoaderSetupAction.java:43)
+	at org.wildfly.extension.undertow@26.1.3.Final//org.wildfly.extension.undertow.deployment.UndertowDeploymentInfoService$UndertowThreadSetupAction.lambda$create$0(UndertowDeploymentInfoService.java:1544)
+	at org.wildfly.extension.undertow@26.1.3.Final//org.wildfly.extension.undertow.deployment.UndertowDeploymentInfoService$UndertowThreadSetupAction.lambda$create$0(UndertowDeploymentInfoService.java:1544)
+	at org.wildfly.extension.undertow@26.1.3.Final//org.wildfly.extension.undertow.deployment.UndertowDeploymentInfoService$UndertowThreadSetupAction.lambda$create$0(UndertowDeploymentInfoService.java:1544)
+	at org.wildfly.extension.undertow@26.1.3.Final//org.wildfly.extension.undertow.deployment.UndertowDeploymentInfoService$UndertowThreadSetupAction.lambda$create$0(UndertowDeploymentInfoService.java:1544)
+	at io.undertow.servlet@2.2.19.Final//io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:255)
+	at io.undertow.servlet@2.2.19.Final//io.undertow.servlet.handlers.ServletInitialHandler.access$000(ServletInitialHandler.java:79)
+	at io.undertow.servlet@2.2.19.Final//io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:100)
+	at io.undertow.core@2.2.19.Final//io.undertow.server.Connectors.executeRootHandler(Connectors.java:387)
+	at io.undertow.core@2.2.19.Final//io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:852)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.ContextClassLoaderSavingRunnable.run(ContextClassLoaderSavingRunnable.java:35)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor.safeRun(EnhancedQueueExecutor.java:1990)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.doRunTask(EnhancedQueueExecutor.java:1486)
+	at org.jboss.threads@2.4.0.Final//org.jboss.threads.EnhancedQueueExecutor$ThreadBody.run(EnhancedQueueExecutor.java:1377)
+	at org.jboss.xnio@3.8.7.Final//org.xnio.XnioWorker$WorkerThreadFactory$1$1.run(XnioWorker.java:1282)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because "brand" is null
+	at deployment.myfirstwar.war//org.example.model.MobileService.createMobile(MobileService.java:6)
+	at deployment.myfirstwar.war//org.example.MySecondRestService.createMobile(MySecondRestService.java:209)
+	at deployment.myfirstwar.war//org.example.MySecondRestService$Proxy$_$$_WeldClientProxy.createMobile(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.jboss.resteasy.resteasy-core@4.7.7.Final//org.jboss.resteasy.core.MethodInjectorImpl.invoke(MethodInjectorImpl.java:170)
+	at org.jboss.resteasy.resteasy-core@4.7.7.Final//org.jboss.resteasy.core.MethodInjectorImpl.invoke(MethodInjectorImpl.java:130)
+	at org.jboss.resteasy.resteasy-core@4.7.7.Final//org.jboss.resteasy.core.ResourceMethodInvoker.internalInvokeOnTarget(ResourceMethodInvoker.java:660)
+	at org.jboss.resteasy.resteasy-core@4.7.7.Final//org.jboss.resteasy.core.ResourceMethodInvoker.invokeOnTargetAfterFilter(ResourceMethodInvoker.java:524)
+	at org.jboss.resteasy.resteasy-core@4.7.7.Final//org.jboss.resteasy.core.ResourceMethodInvoker.lambda$invokeOnTarget$2(ResourceMethodInvoker.java:474)
+	at org.jboss.resteasy.resteasy-core@4.7.7.Final//org.jboss.resteasy.core.interception.jaxrs.PreMatchContainerRequestContext.filter(PreMatchContainerRequestContext.java:364)
+	at org.jboss.resteasy.resteasy-core@4.7.7.Final//org.jboss.resteasy.core.ResourceMethodInvoker.invokeOnTarget(ResourceMethodInvoker.java:476)
+	at org.jboss.resteasy.resteasy-core@4.7.7.Final//org.jboss.resteasy.core.ResourceMethodInvoker.invoke(ResourceMethodInvoker.java:434)
+	at org.jboss.resteasy.resteasy-core@4.7.7.Final//org.jboss.resteasy.core.ResourceMethodInvoker.invoke(ResourceMethodInvoker.java:408)
+	at org.jboss.resteasy.resteasy-core@4.7.7.Final//org.jboss.resteasy.core.ResourceMethodInvoker.invoke(ResourceMethodInvoker.java:69)
+	at org.jboss.resteasy.resteasy-core@4.7.7.Final//org.jboss.resteasy.core.SynchronousDispatcher.invoke(SynchronousDispatcher.java:492)
+	... 60 more
+
